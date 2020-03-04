@@ -1,6 +1,6 @@
 
  import React, { Component } from 'react';
- import { Text, TextInput, View } from 'react-native';
+ import { Text, TextInput, View,Share,Link } from 'react-native';
 
 
 
@@ -16,6 +16,11 @@
    render() {
      return (
        <View>
+         <Text>
+           Share
+       </Text>
+
+       sms:
        </View>
      );
    }
